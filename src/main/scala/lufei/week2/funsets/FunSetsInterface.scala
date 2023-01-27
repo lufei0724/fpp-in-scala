@@ -1,4 +1,4 @@
-package funsets
+package lufei.week2.funsets
 
 /**
  * The interface used by the grading infrastructure. You should not edit any

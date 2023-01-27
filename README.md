@@ -1,2 +1,2 @@
-# FunSet 
-Week2 solution of Functional Programming Principles in Scala
+# fpp-in-scala
+Solutions of Functional Programming Principles in Scala

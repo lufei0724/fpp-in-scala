@@ -1,4 +1,6 @@
-package funsets
+package lufei.week2.funsets
+
+import lufei.week2.funsets.FunSets._
 
 /**
  * This class is a test suite for the methods in object FunSets.
@@ -6,8 +8,6 @@ package funsets
  * To run this test suite, start "sbt" then run the "test" command.
  */
 class FunSetSuite extends munit.FunSuite:
-
-  import FunSets.*
 
   test("contains is implemented") {
     assert(contains(x => true, 100))
